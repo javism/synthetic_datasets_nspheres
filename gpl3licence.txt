@@ -1,0 +1,33 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Copyright (C) Javier Sánchez Monedero (jsanchezm at uco dot es)
+% 
+% This code implements the synthetic data generatod described in the following publicacion:
+%
+% J. Sánchez-Monedero, P.A. Gutiérrez, M. Pérez-Ortiz, and C. Hervás-Martínez
+% An n-spheres based synthetic data generator for supervised classification
+% International Work-Conference on Artificial Neural Networks (IWANN 2013)
+% 
+% The code has been tested with Ubuntu 12.04 x86_64 / Debian Stable 6.0 and Matlab R2009a
+% 
+% If you use this code, please cite the associated paper
+% Code updates and citing information:
+% http://www.uco.es/grupos/ayrna/iwann2013-syntheticdatagenerator
+% 
+% AYRNA Research group's website:
+% http://www.uco.es/ayrna 
+%
+% This program is free software; you can redistribute it and/or
+% modify it under the terms of the GNU General Public License
+% as published by the Free Software Foundation; either version 3
+% of the License, or (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA. 
+% Licence available at: http://www.gnu.org/licenses/gpl-3.0.html
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
